@@ -5,7 +5,6 @@ from sklearn.preprocessing import StandardScaler
 q
 q
 q
-q
 app = Flask(__name__)
 
 # Load model and scaler
