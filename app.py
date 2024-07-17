@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import StandardScaler
 q
-q
 app = Flask(__name__)
 
 # Load model and scaler
