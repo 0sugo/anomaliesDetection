@@ -10,7 +10,6 @@ model = None
 scaler = None
 q
 q
-q
 def train_model():
     global model, scaler
     data = pd.read_csv('checkin_data.csv')
