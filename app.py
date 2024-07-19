@@ -9,7 +9,6 @@ app = Flask(__name__)
 model = None
 scaler = None
 q
-q
 def train_model():
     global model, scaler
     data = pd.read_csv('checkin_data.csv')
